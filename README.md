@@ -15,6 +15,6 @@ For this project I have used these different technologies :
 - MongoDB, for the Database
 - Express JS, for the Backend
 
-# Mockup
+# Mockups
 
 ![Alt text](https://res.cloudinary.com/matetlot/image/upload/v1641973778/LocAleUser/mockup_k5stt9.png "a title")
